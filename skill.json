@@ -1,0 +1,10 @@
+{
+  "name": "openclaw-genpark-store-ops",
+  "version": "1.0.0",
+  "description": "OpenClaw GenPark Store Ops - Stochastic EOQ safety stock and dynamic elasticity yield optimizer with stockout hazard auditing.",
+  "tools": [
+    "calculate_stochastic_eoq_and_rop",
+    "optimize_price_elasticity_yield",
+    "audit_stockout_hazard"
+  ]
+}
